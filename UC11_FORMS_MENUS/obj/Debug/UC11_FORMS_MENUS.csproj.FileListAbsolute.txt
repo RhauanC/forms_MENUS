@@ -1,0 +1,12 @@
+C:\Users\rhauan.csantos\source\repos\UC11_FORMS_MENUS\UC11_FORMS_MENUS\bin\Debug\UC11_FORMS_MENUS.exe.config
+C:\Users\rhauan.csantos\source\repos\UC11_FORMS_MENUS\UC11_FORMS_MENUS\bin\Debug\UC11_FORMS_MENUS.exe
+C:\Users\rhauan.csantos\source\repos\UC11_FORMS_MENUS\UC11_FORMS_MENUS\bin\Debug\UC11_FORMS_MENUS.pdb
+C:\Users\rhauan.csantos\source\repos\UC11_FORMS_MENUS\UC11_FORMS_MENUS\obj\Debug\UC11_FORMS_MENUS.csproj.AssemblyReference.cache
+C:\Users\rhauan.csantos\source\repos\UC11_FORMS_MENUS\UC11_FORMS_MENUS\obj\Debug\UC11_FORMS_MENUS.FORMPRINCIPAL.resources
+C:\Users\rhauan.csantos\source\repos\UC11_FORMS_MENUS\UC11_FORMS_MENUS\obj\Debug\UC11_FORMS_MENUS.Properties.Resources.resources
+C:\Users\rhauan.csantos\source\repos\UC11_FORMS_MENUS\UC11_FORMS_MENUS\obj\Debug\UC11_FORMS_MENUS.csproj.GenerateResource.cache
+C:\Users\rhauan.csantos\source\repos\UC11_FORMS_MENUS\UC11_FORMS_MENUS\obj\Debug\UC11_FORMS_MENUS.csproj.CoreCompileInputs.cache
+C:\Users\rhauan.csantos\source\repos\UC11_FORMS_MENUS\UC11_FORMS_MENUS\obj\Debug\UC11_FORMS_MENUS.exe
+C:\Users\rhauan.csantos\source\repos\UC11_FORMS_MENUS\UC11_FORMS_MENUS\obj\Debug\UC11_FORMS_MENUS.pdb
+C:\Users\rhauan.csantos\source\repos\UC11_FORMS_MENUS\UC11_FORMS_MENUS\obj\Debug\UC11_FORMS_MENUS.Form1CLIENTE.resources
+C:\Users\rhauan.csantos\source\repos\UC11_FORMS_MENUS\UC11_FORMS_MENUS\obj\Debug\UC11_FORMS_MENUS.FormLOGIN.resources
